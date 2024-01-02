@@ -1,0 +1,5 @@
+andar = 20
+while andar > 0:
+  if andar != 13:
+    print ("Andar nº: ",andar)
+  andar = andar - 1
